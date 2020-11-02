@@ -1,0 +1,8 @@
+*.x
+*.aux
+*.log
+*.out
+*.tex
+
+*.png
+*.dat
